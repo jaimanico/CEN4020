@@ -1,6 +1,6 @@
 # CEN4020 — LocalShelf
 
-Term project for Software Engineering. LocalShelf is a desktop music library for large personal collections: folders of audio files you already have, a local catalogue that stays quick to search past a few thousand tracks, and playback that does not need a streaming account.
+Term project for Software Engineering. LocalShelf is a desktop music library for a large personal collection: folders of audio files I already have, a local catalogue that stays quick to search past a few thousand tracks, and playback that does not need a streaming account.
 
 The problem comes from using Spotify, Deezer, and Apple Music. On all three, lookup gets slow once a library passes roughly 3,000 songs, and a real local copy is the better experience. The semester project is that local library, scoped so it can actually be built in a term.
 
